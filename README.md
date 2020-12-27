@@ -33,10 +33,12 @@ seoHelper.print( meta = {}, config = {} )
 Returns the constructed HTML Output String, using data specified in `meta`.
  - `meta`
     An object containing data for meta tags, values specified here override the default values *(if specified)*
+
     <a href="#meta-tags-data-reference"> Refer Here </a> for a list of possible keys for `meta`
 
  - `config`
     An object containing configuration options, values specified here override the global configuration
+
     <a href="#configuration-options"> Refer Here </a> for a list of possible configuration options
 
 ---
@@ -47,6 +49,7 @@ seoHelper.setConfig( config = {} )
 ```
 
 Sets Global Configuration
+
 <a href="#configuration-options"> Refer Here </a> for a list of possible configuration options
 
 ---
@@ -56,6 +59,7 @@ seoHelper.setDefault( defaultMeta = {} )
 ```
 
 Sets default values for meta tags data, default values are used as fallbacks for keys not specified in `seoHelper.print`
+
 <a href="#meta-tags-data-reference"> Refer Here </a> for a list of possible keys for `defaultMeta`
 
 ---

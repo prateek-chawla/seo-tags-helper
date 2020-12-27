@@ -11,7 +11,7 @@
     "url": "git+https://github.com/prateek-chawla/seo-tags-helper.git"
   },
   "keywords": [
-    "seo"
+    "seo","meta","Twitter Cards","Facebook Open Graph"
   ],
   "author": "Prateek Chawla",
   "license": "ISC",
