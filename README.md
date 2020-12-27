@@ -40,7 +40,6 @@ Returns the constructed HTML Output String, using data specified in `meta`.
     <a href="#configuration-options"> Refer Here </a> for a list of possible configuration options
 
 ---
----
 
 
 ```javascript
@@ -122,6 +121,7 @@ module.exports.dummy = (req, res) => {
 | enableTwitter       	| true    	| Enable Tags for Twitter Cards                        	|
 | enableRobots        	| true    	| Allow / Disallow Robots                                	|
 | useGeneralAsDefault 	| true    	| Use General tags as default for Facebook and Twitter 	|
+
 
 #### Meta Tags Data Reference
 | Key             	| Description                                                                                                                     	|
