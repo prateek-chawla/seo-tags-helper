@@ -1,0 +1,22 @@
+{
+  "name": "seo-tags-helper",
+  "version": "1.0.0",
+  "description": "Generate Meta Tags for SEO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateek-chawla/seo-tags-helper.git"
+  },
+  "keywords": [
+    "seo"
+  ],
+  "author": "Prateek Chawla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prateek-chawla/seo-tags-helper/issues"
+  },
+  "homepage": "https://github.com/prateek-chawla/seo-tags-helper#readme"
+}
